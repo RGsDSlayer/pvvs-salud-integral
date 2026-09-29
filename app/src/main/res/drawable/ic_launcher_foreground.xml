@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center circle glow -->
+    <path
+        android:fillColor="#15FFFFFF"
+        android:pathData="M54,24 A30,30 0 1,0 54,84 A30,30 0 1,0 54,24 Z" />
+    <!-- Medical Shield Badge -->
+    <path
+        android:fillColor="#E0F7FA"
+        android:pathData="M54,28 C64,28 72,32 76,36 C76,54 66,69 54,78 C42,69 32,54 32,36 C36,32 44,28 54,28 Z" />
+    <!-- Red Awareness Ribbon & Cross Motif -->
+    <!-- Red Ribbon Shape -->
+    <path
+        android:fillColor="#E53935"
+        android:pathData="M54,34 C49.5,34 46,37.5 46,42 C46,45.2 47.9,48 50.7,49.3 L42,68 L48,68 L54,54.5 L60,68 L66,68 L57.3,49.3 C60.1,48 62,45.2 62,42 C62,37.5 58.5,34 54,34 Z M54,45 C52.3,45 51,43.7 51,42 C51,40.3 52.3,39 54,39 C55.7,39 57,40.3 57,42 C57,43.7 55.7,45 54,45 Z" />
+    <!-- Plus symbol in center of ribbon loop -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M52.5,40.5 L55.5,40.5 L55.5,43.5 L52.5,43.5 Z" />
+</vector>

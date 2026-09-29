@@ -1,0 +1,6 @@
+{
+  "name": "Salud Integral VIH",
+  "description": "Aplicación para centros de salud y pacientes PVVS con control mensual de medicamentos, sincronización automática con Calendario y Reloj del sistema para alarmas a las 8:00 AM (2 días antes y el mismo día de recojo), generación y exportación de reportes clínicos mensuales de carga viral y CD4 en la vista médica, seguimiento de adherencia al TARV, signos vitales, nutrición e información médica científica sobre el VIH.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
